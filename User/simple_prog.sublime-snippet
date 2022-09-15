@@ -1,0 +1,42 @@
+<snippet>
+	<content><![CDATA[
+#pragma GCC target("popcnt")
+#pragma GCC optimize("O3")
+#pragma GCC optimize("Ofast,unroll-loops") 
+
+#include <iostream>
+
+using namespace std;
+
+#define fast ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+#define endl "\n"
+#define ll long long
+#define all(a) (a).begin(), (a).end()
+
+#define PI 3.1415926535897932384626433832795l 
+const int MAX_N = 1e5 + 5;
+const ll MOD = 1e9 + 7;
+const ll INF = 1e9;
+
+void solve() {
+  ${1}
+}
+
+int main() {
+  fast;
+  int tc = 1;
+  // cin >> tc;
+  for (int t = 1; t <= tc; t++) {
+  // cout << "Case #" << t << ": ";
+    solve();
+  }
+}
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>codeforces</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,15 @@
+{
+    //All settings are mandatory
+    //Codeforces directory
+    "parent_dir": "E:\\coding\\Dash",
+    //Extension for new files
+    "extension": "cpp",
+    //Snippet to begin your new file
+    "snippets": "",
+    //Codechef directory
+    "codechef_dir": "",
+    //SPOJ directory
+    "spoj_dir": "",
+    //virtual judge directory
+    "vjudge_dir": ""
+}

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+freopen("${1:FILE}.INP", "r", stdin);
+freopen("${1:FILE}.OUT", "w", stdout);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>iofile</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

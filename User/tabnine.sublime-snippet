@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+#pragma GCC optimize("O2")
+
+#include <iostream>
+using namespace std;
+
+#define ll long long
+#define fast ios_base::sync_with_stdio(false);cin.tie(0);
+
+int main()
+{
+	fast;
+	freopen("${1:FILE}.INP", "r", stdin);
+	freopen("${1:FILE}.OUT", "w", stdout);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>normal_program</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

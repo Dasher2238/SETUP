@@ -1,0 +1,1727 @@
+{
+	"folder_history":
+	[
+		"/E/coding/Dash/Algorithm",
+		"/E/coding/Dash/THSGT",
+		"/E/coding/Dash"
+	],
+	"last_version": 3211,
+	"last_window_id": 69,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ma",
+						"max_"
+					],
+					[
+						"nm",
+						"nam_nhuan"
+					],
+					[
+						"n",
+						"nam_nhuan"
+					],
+					[
+						"thang",
+						"thang_30"
+					],
+					[
+						"th",
+						"thang_31"
+					],
+					[
+						"nam",
+						"nam_nhuan"
+					],
+					[
+						"mi",
+						"MIN"
+					],
+					[
+						"b",
+						"Binary_Search"
+					],
+					[
+						"IN",
+						"In"
+					],
+					[
+						"vecto",
+						"vector\tstandard header"
+					],
+					[
+						"num",
+						"num1"
+					],
+					[
+						"is",
+						"isPan"
+					],
+					[
+						"sr",
+						"start"
+					],
+					[
+						"a",
+						"ans"
+					],
+					[
+						"len",
+						"lena"
+					],
+					[
+						"ln",
+						"lena"
+					],
+					[
+						"le",
+						"lena"
+					],
+					[
+						"io",
+						"iofile\tIO_FILE"
+					],
+					[
+						"e",
+						"exist"
+					],
+					[
+						"co",
+						"cot"
+					],
+					[
+						"ha",
+						"hang"
+					],
+					[
+						"ch",
+						"checkcot"
+					],
+					[
+						"min",
+						"min_w"
+					],
+					[
+						"max",
+						"max_2"
+					],
+					[
+						"mp",
+						"mp_c"
+					],
+					[
+						"solve",
+						"solve2"
+					],
+					[
+						"mx",
+						"max1"
+					],
+					[
+						"blc",
+						"blocked"
+					],
+					[
+						"blo",
+						"blocked"
+					],
+					[
+						"true",
+						"true"
+					],
+					[
+						"chec",
+						"check"
+					],
+					[
+						"no",
+						"not_ok"
+					],
+					[
+						"check",
+						"check1"
+					],
+					[
+						"fr",
+						"first"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"si",
+						"size_s2"
+					],
+					[
+						"size",
+						"size_s"
+					],
+					[
+						"siz",
+						"size_s"
+					],
+					[
+						"df",
+						"define"
+					],
+					[
+						"in",
+						"inmang"
+					],
+					[
+						"i",
+						"ifelif\tif(…) else if(…) else"
+					],
+					[
+						"rea",
+						"readstr"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"re",
+						"readstr"
+					],
+					[
+						"ceh",
+						"check"
+					],
+					[
+						"pop",
+						"pop_back"
+					],
+					[
+						"dq",
+						"deque"
+					],
+					[
+						"de",
+						"deque"
+					],
+					[
+						"p",
+						"push_front"
+					],
+					[
+						"c",
+						"can"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"m",
+						"max_w"
+					],
+					[
+						"chia",
+						"chia_13"
+					],
+					[
+						"chi",
+						"chia_8"
+					],
+					[
+						"st",
+						"start_prog\ttabnine"
+					],
+					[
+						"new",
+						"new2\t⌬ tabnine"
+					],
+					[
+						"che",
+						"check2\t⌬ tabnine"
+					],
+					[
+						"ts",
+						"test\t⌬ tabnine"
+					],
+					[
+						"el",
+						"else\t⌬ tabnine"
+					],
+					[
+						"pu",
+						"push_back\t⌬ tabnine"
+					],
+					[
+						"tes",
+						"testcase\t⌬ tabnine"
+					],
+					[
+						"f",
+						"for (int i = 1 ; i <= n;\t⌬ tabnine"
+					],
+					[
+						"t",
+						"tp\ttemplate <typename ${1:_InputIter}>"
+					],
+					[
+						"tim",
+						"time_1"
+					],
+					[
+						"an",
+						"ans_st\t⌬ tabnine"
+					],
+					[
+						"tong",
+						"tong2\t⌬ tabnine"
+					],
+					[
+						"bc",
+						"bcnn3\t⌬ tabnine"
+					],
+					[
+						"__",
+						"__bcnn\t⌬ tabnine"
+					],
+					[
+						"us",
+						"user_name\t⌬ tabnine"
+					],
+					[
+						"u",
+						"user_password\t⌬ tabnine"
+					],
+					[
+						"lo",
+						"log_in\t⌬ tabnine"
+					],
+					[
+						"sig",
+						"sign_up\t⌬ tabnine"
+					],
+					[
+						"ton",
+						"tong_uoc\t⌬ tabnine"
+					],
+					[
+						"ve",
+						"vecr\t⌬ tabnine"
+					],
+					[
+						"vec",
+						"vecl\t⌬ tabnine"
+					],
+					[
+						"pi",
+						"prime_nums\t⌬ tabnine"
+					],
+					[
+						"v",
+						"vecl\t⌬ tabnine"
+					],
+					[
+						"pri",
+						"prime_nums\t⌬ tabnine"
+					],
+					[
+						"fo",
+						"for (ll i = 2 ; i <=\t⌬ tabnine"
+					],
+					[
+						"unor",
+						"unordered_map\tstandard header (since c++11)"
+					],
+					[
+						"un",
+						"unordered_map\t⌬ tabnine"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							""
+						],
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Competitive Programming/Test C++.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packeage ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: lis",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 73.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/coding/Dash/THSGT/DE8/DOANCON.cpp",
+				"/E/coding/Dash/THSGT/DE8/SCORE.cpp",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.cpp",
+				"/E/coding/Dash/lnishan-awesome-competitive-programming-f5d5286/README.md",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.OUT",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.INP",
+				"/E/coding/Dash/Algorithm/Prime.cpp",
+				"/E/coding/Dash/THSGT/DE8/DATE.OUT",
+				"/E/coding/Dash/THSGT/DE8/DATE.INP",
+				"/E/coding/Dash/THSGT/DE7/SON.cpp",
+				"/E/coding/Dash/THSGT/DE8/BOCHANG.cpp",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.cpp",
+				"/E/coding/Dash/THSGT/DE8/DATE.cpp",
+				"/E/coding/Dash/THSGT/DE7/SON.INP",
+				"/E/coding/Dash/THSGT/DE7/SON.OUT",
+				"/E/coding/Dash/Algorithm/Binary_Search.cpp",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.OUT",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.INP",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.cpp",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.cpp",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.OUT",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.INP",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.OUT",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.INP",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/IO_FILE.sublime-snippet",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/tabnine.sublime-snippet",
+				"/E/coding/Dash/THSGT/DE6/TAXI.OUT",
+				"/E/coding/Dash/THSGT/DE6/TAXI.INP",
+				"/E/coding/Dash/THSGT/DE6/TAXI.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/simple_prog.sublime-snippet",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.OUT",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.INP",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/TAXI.cpp",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.cpp",
+				"/E/coding/Dash/THSGT/DE6/PRIME.OUT",
+				"/E/coding/Dash/THSGT/DE6/PRIME.INP",
+				"/E/coding/Dash/THSGT/DE6/PRIME.cpp",
+				"/E/coding/Dash/THSGT/DE6/UCLN.OUT",
+				"/E/coding/Dash/THSGT/DE6/UCLN.INP",
+				"/E/coding/Dash/THSGT/DE2/PRIME.INP",
+				"/E/coding/Dash/Algorithm",
+				"/E/coding/Dash/THSGT/DE6/UCLN.cpp",
+				"/E/coding/Dash/ouput_vector.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/output.out",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/input.in",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/A.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/test_data/test_set_2/ts2_input.txt",
+				"/E/coding/Dash/KMP/main.cpp",
+				"/D/lite/data/plugins/consecutive_cuts_chapter_1_validation_input.txt",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/1.in",
+				"/E/coding/Dash/THSGT/DE5/SDB.cpp",
+				"/E/coding/Dash/THSGT/DE4/output.out",
+				"/E/coding/Dash/THSGT/DE4/input.in",
+				"/E/coding/Dash/THSGT/DE4/TIMSO.INP",
+				"/E/coding/Dash/THSGT/DE4/TIMSO.cpp",
+				"/E/coding/Dash/THSGT/DE3/ANHEM.INP",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.cpp",
+				"/E/coding/Dash/THSGT/DE4/XAU.cpp",
+				"/E/coding/Dash/THSGT/DE4/GAME.cpp",
+				"/E/coding/Dash/THSGT/DE4/GAME.OUT",
+				"/E/coding/Dash/mingw/lib/gcc/mingw32/9.2.0/include/c++/iostream",
+				"/E/coding/Dash/THSGT/DE3/TONG.INP",
+				"/E/coding/Dash/THSGT/DE3/LAPTRINH.INP",
+				"/E/coding/Dash/THSGT/DE3/tong.cpp",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.OUT",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.INP",
+				"/E/coding/Dash/THSGT/DE4/THONGKE.INP",
+				"/E/coding/Dash/THSGT/DE4/GAME.INP",
+				"/E/coding/Dash/THSGT/DE4/XAU.OUT",
+				"/E/coding/Dash/THSGT/DE4/XAU.INP",
+				"/E/coding/Dash/THSGT/DE4/THONGKE.cpp",
+				"/E/coding/Dash/THSGT/DE3/LAPTRINH.OUT",
+				"/E/coding/Dash/THSGT/DE3/output.out",
+				"/E/coding/Dash/THSGT/DE3/input.in",
+				"/E/coding/Dash/THSGT/DE3/laptrinh.cpp",
+				"/E/coding/Dash/THSGT/DE3/daynt.cpp",
+				"/E/coding/Dash/THSGT/DE2/NT.INP",
+				"/E/coding/Dash/THSGT/DE2/NT.OUT",
+				"/E/coding/Dash/THSGT/DE2/NT.cpp",
+				"/E/coding/Dash/THSGT/DE3/anhem.cpp",
+				"/E/coding/Dash/THSGT/DE3/ANHEM.OUT",
+				"/E/coding/Dash/THSGT/DE1/output.out",
+				"/E/coding/Dash/THSGT/DE1/input.in",
+				"/E/coding/Dash/THSGT/DE1/NT.cpp",
+				"/E/coding/Dash/THSGT/DE1/NT.OUT",
+				"/E/coding/Dash/THSGT/DE1/NT.INP",
+				"/E/coding/Dash/THSGT/DE1/NT2.cpp",
+				"/D/NT.cpp",
+				"/E/coding/Dash/THSGT/DE1/NT.txt",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/A1.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/input.in",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/output.out",
+				"/E/coding/Dash/projects/login system/main.cpp",
+				"/E/coding/Dash/projects/digital clock/main.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/output.out",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/input.in",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/A2.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/A1.cpp",
+				"/E/coding/Dash/1",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/B.cpp",
+				"/D/A.cpp",
+				"/E/coding/Dash/output.out",
+				"/E/coding/Dash/input.in",
+				"/E/coding/Dash/nop.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2022/B2(second_second_hand).cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/C.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/D.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/B.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/E/coding/Dash/CodeForces.cpp",
+				"/E/coding/Dash/A.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/CHANGELOG.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/miscellaneous/demo.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/set_up.sublime-snippet",
+				"/E/coding/Dash/header.h",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C++ build.sublime-build",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/IO_Build.sublime-build",
+				"/E/coding/Dash/1.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/E/coding/Dash/bài toán cái túi.cpp",
+				"/E/coding/Dash/template.cpp",
+				"/E/coding/Dash/input.txt",
+				"/E/coding/Dash/output.txt",
+				"/E/coding/Dash/error.txt",
+				"/E/coding/Dash/laptrinh/class_C3/test.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/GetCode.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CNTWRD.cpp"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"menu_visible": true,
+			"output.Git Bash":
+			{
+				"height": 231.0
+			},
+			"output.Terminus":
+			{
+				"height": 187.0
+			},
+			"output.astyle_error_message":
+			{
+				"height": 36.0
+			},
+			"output.exec":
+			{
+				"height": 36.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ build.sublime-build",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"p",
+						"Algorithm\\Prime.cpp"
+					],
+					[
+						"out_vec",
+						"ouput_vector.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 782.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ma",
+						"max_"
+					],
+					[
+						"nm",
+						"nam_nhuan"
+					],
+					[
+						"n",
+						"nam_nhuan"
+					],
+					[
+						"thang",
+						"thang_30"
+					],
+					[
+						"th",
+						"thang_31"
+					],
+					[
+						"nam",
+						"nam_nhuan"
+					],
+					[
+						"mi",
+						"MIN"
+					],
+					[
+						"b",
+						"Binary_Search"
+					],
+					[
+						"IN",
+						"In"
+					],
+					[
+						"vecto",
+						"vector\tstandard header"
+					],
+					[
+						"num",
+						"num1"
+					],
+					[
+						"is",
+						"isPan"
+					],
+					[
+						"sr",
+						"start"
+					],
+					[
+						"a",
+						"ans"
+					],
+					[
+						"len",
+						"lena"
+					],
+					[
+						"ln",
+						"lena"
+					],
+					[
+						"le",
+						"lena"
+					],
+					[
+						"io",
+						"iofile\tIO_FILE"
+					],
+					[
+						"e",
+						"exist"
+					],
+					[
+						"co",
+						"cot"
+					],
+					[
+						"ha",
+						"hang"
+					],
+					[
+						"ch",
+						"checkcot"
+					],
+					[
+						"min",
+						"min_w"
+					],
+					[
+						"max",
+						"max_2"
+					],
+					[
+						"mp",
+						"mp_c"
+					],
+					[
+						"solve",
+						"solve2"
+					],
+					[
+						"mx",
+						"max1"
+					],
+					[
+						"blc",
+						"blocked"
+					],
+					[
+						"blo",
+						"blocked"
+					],
+					[
+						"true",
+						"true"
+					],
+					[
+						"chec",
+						"check"
+					],
+					[
+						"no",
+						"not_ok"
+					],
+					[
+						"check",
+						"check1"
+					],
+					[
+						"fr",
+						"first"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"si",
+						"size_s2"
+					],
+					[
+						"size",
+						"size_s"
+					],
+					[
+						"siz",
+						"size_s"
+					],
+					[
+						"df",
+						"define"
+					],
+					[
+						"in",
+						"inmang"
+					],
+					[
+						"i",
+						"ifelif\tif(…) else if(…) else"
+					],
+					[
+						"rea",
+						"readstr"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"re",
+						"readstr"
+					],
+					[
+						"ceh",
+						"check"
+					],
+					[
+						"pop",
+						"pop_back"
+					],
+					[
+						"dq",
+						"deque"
+					],
+					[
+						"de",
+						"deque"
+					],
+					[
+						"p",
+						"push_front"
+					],
+					[
+						"c",
+						"can"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"m",
+						"max_w"
+					],
+					[
+						"chia",
+						"chia_13"
+					],
+					[
+						"chi",
+						"chia_8"
+					],
+					[
+						"st",
+						"start_prog\ttabnine"
+					],
+					[
+						"new",
+						"new2\t⌬ tabnine"
+					],
+					[
+						"che",
+						"check2\t⌬ tabnine"
+					],
+					[
+						"ts",
+						"test\t⌬ tabnine"
+					],
+					[
+						"el",
+						"else\t⌬ tabnine"
+					],
+					[
+						"pu",
+						"push_back\t⌬ tabnine"
+					],
+					[
+						"tes",
+						"testcase\t⌬ tabnine"
+					],
+					[
+						"f",
+						"for (int i = 1 ; i <= n;\t⌬ tabnine"
+					],
+					[
+						"t",
+						"tp\ttemplate <typename ${1:_InputIter}>"
+					],
+					[
+						"tim",
+						"time_1"
+					],
+					[
+						"an",
+						"ans_st\t⌬ tabnine"
+					],
+					[
+						"tong",
+						"tong2\t⌬ tabnine"
+					],
+					[
+						"bc",
+						"bcnn3\t⌬ tabnine"
+					],
+					[
+						"__",
+						"__bcnn\t⌬ tabnine"
+					],
+					[
+						"us",
+						"user_name\t⌬ tabnine"
+					],
+					[
+						"u",
+						"user_password\t⌬ tabnine"
+					],
+					[
+						"lo",
+						"log_in\t⌬ tabnine"
+					],
+					[
+						"sig",
+						"sign_up\t⌬ tabnine"
+					],
+					[
+						"ton",
+						"tong_uoc\t⌬ tabnine"
+					],
+					[
+						"ve",
+						"vecr\t⌬ tabnine"
+					],
+					[
+						"vec",
+						"vecl\t⌬ tabnine"
+					],
+					[
+						"pi",
+						"prime_nums\t⌬ tabnine"
+					],
+					[
+						"v",
+						"vecl\t⌬ tabnine"
+					],
+					[
+						"pri",
+						"prime_nums\t⌬ tabnine"
+					],
+					[
+						"fo",
+						"for (ll i = 2 ; i <=\t⌬ tabnine"
+					],
+					[
+						"unor",
+						"unordered_map\tstandard header (since c++11)"
+					],
+					[
+						"un",
+						"unordered_map\t⌬ tabnine"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "#pragma GCC optimize(\"O2\")\n\n#include <iostream>\n#include <algorithm>\nusing namespace std;\n\n#define ll long long\n#define fast ios_base::sync_with_stdio(false);cin.tie(0);\n\nint n;\nvector<ll> v;\n\nvoid add_uoc(ll n)\n{\n\tfor (int i = 2 ; i * i <= n ; ++i)\n\t{\n\t\tif (n % i == 0)\n\t\t{\n\t\t\tif (i * i == n) v.push_back(i);\n\t\t\telse {v.push_back(i); v.push_back(n / i);}\n\t\t}\n\t}\n\tv.push_back(n);\n}\n\nint main()\n{\n\tfast;\n\tfreopen(\"GAME.INP\", \"r\", stdin);\n\tfreopen(\"GAME.OUT\", \"w\", stdout);\n\tcin >> n;\n\tll a[n + 1];\n\tfor (int i = 0 ; i < n; ++i)\n\t\tcin >> a[i];\n\tsort(a, a + n);\n\t// ll hieu = a[1] - a[0];\n\tadd_uoc(a[n - 1] - a[n - 2]);\n\tfor (ll it : v)\n\t{\n\t\tbool check = true;\n\t\tll mod = a[0] % it;\n\t\tfor (int i = 1 ; i < n ; ++i)\n\t\t{\n\t\t\tif ((a[i] % it) != mod) check = false;\n\t\t}\n\t\tif (check) cout << it << \" \";\n\t}\n}",
+					"file": "/E/coding/Dash/THSGT/DE9/GAME.cpp",
+					"file_size": 879,
+					"file_write_time": 133076673553483801,
+					"settings":
+					{
+						"buffer_size": 798,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/coding/Dash/THSGT/DE9/GAME.INP",
+					"settings":
+					{
+						"buffer_size": 17,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/coding/Dash/THSGT/DE9/GAME.OUT",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							""
+						],
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Competitive Programming/Test C++.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packeage ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: lis",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 73.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/coding/Dash/THSGT",
+				"/E/coding/Dash/THSGT/DE9",
+				"/E/coding/Dash/Algorithm"
+			],
+			"file_history":
+			[
+				"/E/coding/Dash/THSGT/DE8/DOANCON.cpp",
+				"/E/coding/Dash/THSGT/DE8/SCORE.cpp",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.cpp",
+				"/E/coding/Dash/lnishan-awesome-competitive-programming-f5d5286/README.md",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.OUT",
+				"/E/coding/Dash/THSGT/DE9/NUMBER.INP",
+				"/E/coding/Dash/Algorithm/Prime.cpp",
+				"/E/coding/Dash/THSGT/DE8/DATE.OUT",
+				"/E/coding/Dash/THSGT/DE8/DATE.INP",
+				"/E/coding/Dash/THSGT/DE7/SON.cpp",
+				"/E/coding/Dash/THSGT/DE8/BOCHANG.cpp",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.cpp",
+				"/E/coding/Dash/THSGT/DE8/DATE.cpp",
+				"/E/coding/Dash/THSGT/DE7/SON.INP",
+				"/E/coding/Dash/THSGT/DE7/SON.OUT",
+				"/E/coding/Dash/Algorithm/Binary_Search.cpp",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.OUT",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.INP",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.cpp",
+				"/E/coding/Dash/THSGT/DE7/Nhansu.cpp",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.OUT",
+				"/E/coding/Dash/THSGT/DE7/Tongsoam.INP",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.OUT",
+				"/E/coding/Dash/THSGT/DE7/Suaxau.INP",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/IO_FILE.sublime-snippet",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/tabnine.sublime-snippet",
+				"/E/coding/Dash/THSGT/DE6/TAXI.OUT",
+				"/E/coding/Dash/THSGT/DE6/TAXI.INP",
+				"/E/coding/Dash/THSGT/DE6/TAXI.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/simple_prog.sublime-snippet",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.OUT",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.INP",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/TAXI.cpp",
+				"/E/coding/Dash/THSGT/DE6/TACHCHU.cpp",
+				"/E/coding/Dash/THSGT/DE6/PRIME.OUT",
+				"/E/coding/Dash/THSGT/DE6/PRIME.INP",
+				"/E/coding/Dash/THSGT/DE6/PRIME.cpp",
+				"/E/coding/Dash/THSGT/DE6/UCLN.OUT",
+				"/E/coding/Dash/THSGT/DE6/UCLN.INP",
+				"/E/coding/Dash/THSGT/DE2/PRIME.INP",
+				"/E/coding/Dash/Algorithm",
+				"/E/coding/Dash/THSGT/DE6/UCLN.cpp",
+				"/E/coding/Dash/ouput_vector.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/output.out",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/input.in",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/A.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/test_data/test_set_2/ts2_input.txt",
+				"/E/coding/Dash/KMP/main.cpp",
+				"/D/lite/data/plugins/consecutive_cuts_chapter_1_validation_input.txt",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/1.in",
+				"/E/coding/Dash/THSGT/DE5/SDB.cpp",
+				"/E/coding/Dash/THSGT/DE4/output.out",
+				"/E/coding/Dash/THSGT/DE4/input.in",
+				"/E/coding/Dash/THSGT/DE4/TIMSO.INP",
+				"/E/coding/Dash/THSGT/DE4/TIMSO.cpp",
+				"/E/coding/Dash/THSGT/DE3/ANHEM.INP",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.cpp",
+				"/E/coding/Dash/THSGT/DE4/XAU.cpp",
+				"/E/coding/Dash/THSGT/DE4/GAME.cpp",
+				"/E/coding/Dash/THSGT/DE4/GAME.OUT",
+				"/E/coding/Dash/mingw/lib/gcc/mingw32/9.2.0/include/c++/iostream",
+				"/E/coding/Dash/THSGT/DE3/TONG.INP",
+				"/E/coding/Dash/THSGT/DE3/LAPTRINH.INP",
+				"/E/coding/Dash/THSGT/DE3/tong.cpp",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.OUT",
+				"/E/coding/Dash/THSGT/DE3/DAYNT.INP",
+				"/E/coding/Dash/THSGT/DE4/THONGKE.INP",
+				"/E/coding/Dash/THSGT/DE4/GAME.INP",
+				"/E/coding/Dash/THSGT/DE4/XAU.OUT",
+				"/E/coding/Dash/THSGT/DE4/XAU.INP",
+				"/E/coding/Dash/THSGT/DE4/THONGKE.cpp",
+				"/E/coding/Dash/THSGT/DE3/LAPTRINH.OUT",
+				"/E/coding/Dash/THSGT/DE3/output.out",
+				"/E/coding/Dash/THSGT/DE3/input.in",
+				"/E/coding/Dash/THSGT/DE3/laptrinh.cpp",
+				"/E/coding/Dash/THSGT/DE3/daynt.cpp",
+				"/E/coding/Dash/THSGT/DE2/NT.INP",
+				"/E/coding/Dash/THSGT/DE2/NT.OUT",
+				"/E/coding/Dash/THSGT/DE2/NT.cpp",
+				"/E/coding/Dash/THSGT/DE3/anhem.cpp",
+				"/E/coding/Dash/THSGT/DE3/ANHEM.OUT",
+				"/E/coding/Dash/THSGT/DE1/output.out",
+				"/E/coding/Dash/THSGT/DE1/input.in",
+				"/E/coding/Dash/THSGT/DE1/NT.cpp",
+				"/E/coding/Dash/THSGT/DE1/NT.OUT",
+				"/E/coding/Dash/THSGT/DE1/NT.INP",
+				"/E/coding/Dash/THSGT/DE1/NT2.cpp",
+				"/D/NT.cpp",
+				"/E/coding/Dash/THSGT/DE1/NT.txt",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/A1.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/input.in",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2020/output.out",
+				"/E/coding/Dash/projects/login system/main.cpp",
+				"/E/coding/Dash/projects/digital clock/main.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/output.out",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/input.in",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/A2.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/A1.cpp",
+				"/E/coding/Dash/1",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2021/B.cpp",
+				"/D/A.cpp",
+				"/E/coding/Dash/output.out",
+				"/E/coding/Dash/input.in",
+				"/E/coding/Dash/nop.cpp",
+				"/E/coding/Dash/Facebook hacker cup/qualification round 2022/B2(second_second_hand).cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/C.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/D.cpp",
+				"/E/coding/Dash/Facebook hacker cup/round 1 2022/B.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/E/coding/Dash/CodeForces.cpp",
+				"/E/coding/Dash/A.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/CHANGELOG.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-gcc/miscellaneous/demo.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/set_up.sublime-snippet",
+				"/E/coding/Dash/header.h",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C++ build.sublime-build",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/IO_Build.sublime-build",
+				"/E/coding/Dash/1.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/E/coding/Dash/bài toán cái túi.cpp",
+				"/E/coding/Dash/template.cpp",
+				"/E/coding/Dash/input.txt",
+				"/E/coding/Dash/output.txt",
+				"/E/coding/Dash/error.txt",
+				"/E/coding/Dash/laptrinh/class_C3/test.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/GetCode.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CNTWRD.cpp"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\coding\\Dash\\THSGT"
+				},
+				{
+					"path": "E:\\coding\\Dash\\Algorithm"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/coding/Dash/THSGT/DE9/GAME.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 798,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										679,
+										679
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												795,
+												796
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												635,
+												636
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"line_numbers": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage_lines.line": 40,
+									"vintage_lines.lines": 47,
+									"vintage_lines.mode": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/E/coding/Dash/THSGT/DE9/GAME.INP",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"line_numbers": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 6,
+									"vintage_lines.mode": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/E/coding/Dash/THSGT/DE9/GAME.OUT",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"line_numbers": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 0,
+									"vintage_lines.mode": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.609589041096,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Git Bash":
+			{
+				"height": 231.0
+			},
+			"output.Terminus":
+			{
+				"height": 187.0
+			},
+			"output.astyle_error_message":
+			{
+				"height": 36.0
+			},
+			"output.exec":
+			{
+				"height": 39.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ build.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,588,50,50,848",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"p",
+						"Algorithm\\Prime.cpp"
+					],
+					[
+						"out_vec",
+						"ouput_vector.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 68,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
